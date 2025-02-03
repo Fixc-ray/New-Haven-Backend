@@ -914,7 +914,43 @@
       "id": 127,
       "name": "JAGER BOMB",
       "ingredients": ["Jagermeister", "Redbull"],
-      "sizes": {
+      "sizes": {{
+  "beers": [
+    {
+      "id": 1,
+      "name": "WHITE CUP LAGER",
+      "price": 300,
+      "image": "url_to_image"
+    },
+    {
+      "id": 2,
+      "name": "WHITE CUP CRISP",
+      "price": 300,
+      "image": "url_to_image"
+    },
+    {
+      "id": 4,
+      "name": "TUSKER LAGER",
+      "price": 300,
+      "image": "url_to_image"
+    },
+    {
+      "id": 5,
+      "name": "TUSKER MALT",
+      "price": 300,
+      "image": "url_to_image"
+    },
+    {
+      "id": 6,
+      "name": "TUSKER LITE",
+      "price": 300,
+      "image": "url_to_image"
+    },
+    {
+      "id": 7,
+      "name": "TUSKER CIDER",
+      "price": 300,
+
         "600ml": 700,
         "800ml": 800
       },
@@ -1103,7 +1139,7 @@
       "id": 153,
       "name": "Fish Wet Fry (Tilapia)",
       "price": 700,
-      "imageUrl": "src/images/Wet fish.jpeg",
+      "imageUrl": "https://i.ibb.co/cS3Gz4Pw/Wet-fish.jpg",
       "category": "Main Dishes"
     },
     {
